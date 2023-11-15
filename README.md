@@ -7,15 +7,18 @@
 ## Tech Stack Languages
 
 
-
+## Checkout Linkedin and Twitter
  
 <a href="https://www.linkedin.com/in/kashif-choudary/">
+  
   <img align="left" alt="Kashif - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 <a href="https://twitter.com/k_ashi0">
+ 
   <img align="left" alt="kashif - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
- 
+
+ ##
 <br />
 <br />
 
@@ -25,6 +28,14 @@ As a blockchain developer with a year of experience, I've been breaking barriers
 ✔ Security Consulting <br>
 ✔ Advanced Technologies <br>
 ✔ Research and Projects<br>
+
+## Upwork & FIverr
+https://www.upwork.com/freelancers/~01f2ad579a0cc15709 <br>
+https://www.fiverr.com/aku_labs
+##
+
+
+
 
    
 • React.js<br>

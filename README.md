@@ -29,14 +29,6 @@ As a blockchain developer with a year of experience, I've been breaking barriers
 ✔ Advanced Technologies <br>
 ✔ Research and Projects<br>
 
-## Upwork & FIverr
-https://www.upwork.com/freelancers/~01f2ad579a0cc15709 <br>
-https://www.fiverr.com/aku_labs
-##
-
-
-
-
    
 • React.js<br>
 • Node.js<br>

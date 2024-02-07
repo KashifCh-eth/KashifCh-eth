@@ -46,8 +46,8 @@ https://www.youtube.com/@skillscodified
 Contact:<br>
 kashi.dev96@gmail.com<br>
  
-Whatsapp 24/7:<br>
-https://chatwith.io/s/codedreft-auditblock <br>
+Telegram 24/7:<br>
+https://t.me/KashifCheth
  
 
 

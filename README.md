@@ -41,13 +41,13 @@ As a blockchain developer with a year of experience, I've been breaking barriers
 • Three.js <br>
 
 Youtube :<br>
-https://www.youtube.com/@skillscodified
+https://www.youtube.com/channel/UCTV-ublGmEHqhX3n3RLiRJw
 
 Contact:<br>
 kashi.dev96@gmail.com<br>
  
 Telegram 24/7:<br>
-https://t.me/KashifCheth
+https://t.me/kashi_eth
  
 
 

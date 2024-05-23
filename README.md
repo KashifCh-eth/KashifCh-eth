@@ -1,53 +1,26 @@
-## We hope your journey here proves educational, inspiring, and transformative. Feel free to reach out to us with any questions, feedback, or suggestions. Let's embark on this exciting adventure together!
+[![bg][banner]][website]
 
-## Welcome aboard!
+### ~ Welcome aboard!
 
-## The Full Stack Development 
-## Blockchain Development
+👨🏼‍💻 Building   
+🧠 Learning <br/>
+💜 Loving Stacks [React][react] , [Nodejs][nodejs] , [Typescript][typescript] , [Solidity ][Solidity] , [Ethers][ethers] , [Solana][solana] and [Tailwind][tailwind]  
 
-## Tech Stack Languages
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+👔 [linkedin][linkedin]
 
-
-## Checkout Linkedin and Twitter
+[banner]: https://github.com/KashifCh-eth/KashifCh-eth/blob/4cbded1f5a078f9e92b9749f43a7fe7a6fadf594/KashifCh.gif
+[Solidity]: https://soliditylang.org/
+[nodejs]: https://nodejs.org/en
+[solana]:https://solana.com/
+[typescript]: https://www.typescriptlang.org
+[react]: http://reactjs.org
+[ethers]: https://docs.ethers.org/v5/
+[tailwind]: https://tailwindcss.com
+[website]:  https://kashifsattar.me/
+[twitter]: https://twitter.com/k_ashi0
+[youtube]: https://www.youtube.com/channel/UCTV-ublGmEHqhX3n3RLiRJw
+[linkedin]: https://www.linkedin.com/in/kashif-choudary/
  
-<a href="https://www.linkedin.com/in/kashif-choudary/">
-  
-  <img align="left" alt="Kashif - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-</a>
-<a href="https://twitter.com/k_ashi0">
- 
-  <img align="left" alt="kashif - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
-</a>
-
- ##
-<br />
-<br />
-
-As a blockchain developer with a year of experience, I've been breaking barriers and pushing boundaries in the industry. With a passion for coding and a commitment to innovation, I've honed my skills through programs I'm ready to bring my expertise and enthusiasm to the forefront of the blockchain revolution. Let's connect and create something incredible!
-
-✔ Implantation and Development<br>
-✔ Security Consulting <br>
-✔ Advanced Technologies <br>
-✔ Research and Projects<br>
-
-   
-• React.js<br>
-• Node.js<br>
-• Solidity<br>
-• Advanced JavaScript<br>
-• Basic Python <br>
-• Ether.js <br>
-• Web3.js <br>
-• Three.js <br>
-
-Youtube :<br>
-https://www.youtube.com/channel/UCTV-ublGmEHqhX3n3RLiRJw
-
-Contact:<br>
-kashi.dev96@gmail.com<br>
- 
-Telegram 24/7:<br>
-https://t.me/kashi_eth
- 
-
-
